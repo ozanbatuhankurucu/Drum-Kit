@@ -9,6 +9,10 @@ h1 {
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
 }
+.pressed{
+  box-shadow: 0 3px 4px 0 #fd5e53;
+  opacity: 0.5;
+}
 
 .drum {
   outline: none;
